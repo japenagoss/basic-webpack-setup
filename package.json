@@ -19,15 +19,15 @@
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.0.4",
     "node-sass": "^4.7.2",
-    "sass-loader": "^6.0.7",
+    "sass-loader": "^7.0.1",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.10",
     "webpack-dev-server": "^3.1.0"
   },
   "dependencies": {
     "css-loader": "^0.28.10",
-    "extract-loader": "^1.0.2",
+    "extract-loader": "^2.0.1",
     "handlebars-loader": "^1.6.0",
-    "style-loader": "^0.20.2"
+    "style-loader": "^0.21.0"
   }
 }
